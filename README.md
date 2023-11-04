@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashley Peng, a first-year student studying Computer Engineering at the University of Waterloo 
 - 👀 I’m interested in digital design 
-- 🌱 I’m currently learning object-orientated programming and C++. 
+- 🌱 I’m currently C++. 
 - 💞️ I’m looking to collaborate on ...
   
 
